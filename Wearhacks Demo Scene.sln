@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{836ACFB9-87C1-8899-5812-C65EC51646BB}") = "Wearhacks Demo Scene", "Assembly-CSharp-firstpass.csproj", "{208A3F2B-B894-2A2B-6DB8-0C40B36015C9}"
+EndProject
+Project("{836ACFB9-87C1-8899-5812-C65EC51646BB}") = "Wearhacks Demo Scene", "Assembly-CSharp.csproj", "{E856596F-22D8-5836-EA96-8AFBA0D9A8C9}"
+EndProject
+Project("{836ACFB9-87C1-8899-5812-C65EC51646BB}") = "Wearhacks Demo Scene", "Assembly-CSharp-Editor.csproj", "{5D24CFC0-8DF6-BBBC-2D88-5F25D293A473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208A3F2B-B894-2A2B-6DB8-0C40B36015C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208A3F2B-B894-2A2B-6DB8-0C40B36015C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208A3F2B-B894-2A2B-6DB8-0C40B36015C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208A3F2B-B894-2A2B-6DB8-0C40B36015C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E856596F-22D8-5836-EA96-8AFBA0D9A8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E856596F-22D8-5836-EA96-8AFBA0D9A8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E856596F-22D8-5836-EA96-8AFBA0D9A8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E856596F-22D8-5836-EA96-8AFBA0D9A8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D24CFC0-8DF6-BBBC-2D88-5F25D293A473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D24CFC0-8DF6-BBBC-2D88-5F25D293A473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D24CFC0-8DF6-BBBC-2D88-5F25D293A473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D24CFC0-8DF6-BBBC-2D88-5F25D293A473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
